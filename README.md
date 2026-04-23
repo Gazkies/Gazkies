@@ -2,27 +2,30 @@
 <h2 align="center">I'm Gabriel.</h2>
 
 <p align="center">
-  <i>A 3rd-year university student blending data science, enterprise systems, and visual design.</i><br>
-  <i>Data analytics by day, aesthetic layouts & strength training by night. 🌙✨</i>
+  <i>A 3rd-year Information Systems student majoring in Business Analytics.</i>
 </p>
 
 ---
 
-### 🔭 What I'm currently up to
-* 📊 **Community Leadership:** Coordinating events, managing documentation, and leading initiatives for the **Data Science Association (DSA)**.
-* ⚙️ **Process Optimization:** Diving deep into Enterprise Resource Planning (ERP) and Business Process Management (BPM) using systems like Flectra.
-* 💻 **Data Projects:** Building interactive web apps and dashboards using Python and Streamlit.
+### ⚔️ What I'm Currently Working On
+* 🗺️ **Thesis Project:** Developing **KalsaTrack**, a Geospatial Crowdsourced Decision Support System for the maintenance and prioritization of farm-to-market roads.
+* 📚 **Academics:** Putting in the focus required to finish my 3rd year strong and preparing for upcoming exams.
+* 🌱 **Self-Improvement:** Continuously building better habits, expanding my technical skill set, and optimizing my daily routines for personal growth.
 
-### 🛠️ My Tech Stack
-* **Languages:** Python
-* **Data & Dashboards:** Pandas, Streamlit
-* **Concepts:** Machine Learning (Naive Bayes, Decision Trees), Cycle Time Calculations, Little's Law
+### 🌌 Ways of the Craft
+* **Analytics & Data Mining:** Orange, Weka, Microsoft Excel
+* **Web Development Core:** HTML, CSS, JavaScript
+* **Development Environments:** VS Code, Jupyter, JGrasp
 
-### 🌟 Beyond the Code
-I believe in keeping a strong balance between the screen and the real world:
-* 📸 **Visuals:** Crafting custom digital layouts, aesthetic lock screens, and capturing the perfect golden-hour atmospheric photography.
-* 🏋️‍♂️ **Fitness:** Staying disciplined with my two-day dumbbell strength training splits (always tracking that progress!).
-* 🗣️ **Polyglot:** Fluently switching between English, Tagalog, and Hiligaynon.
+### 🗺️ Side Quests & Hobbies
+* 🏀 **Basketball:** Hitting the court for pickup games and staying active.
+* 🏋️‍♂️ **Working Out:** Staying disciplined with my strength training routines to maintain a sharp mind and body.
+* 🎮 **Gaming:** Diving into different worlds and strategies to unwind and recharge.
 
 ---
-<p align="center"><b>Let's connect and create something beautiful! 🚀</b></p>
+
+## ⚡ Philosophy
+> "Everything that happens is the consequence of something. Whether writing a line of code, analyzing data, or navigating daily life, every outcome is the direct result of our actions, our discipline, and the choices we make. Focus on the right inputs, and the right impact will follow."
+
+---
+<p align="center"><b>Let's connect and build something impactful 🚀</b></p>
